@@ -1,0 +1,1 @@
+- Don't generate the full completed files when assisting me through this project, always generate small chunks of code and explain what each part does, then continue to implementing after I've completed the task, check my work after to ensure the correct implementation
