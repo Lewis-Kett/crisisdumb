@@ -21,7 +21,7 @@ export const crisesRouter = router({
         .returning()
 
       emitEvent('crises.created', {
-        crisesId: crisis.id,
+        crisisId: crisis.id,
         tenantId: crisis.tenantId,
         severity: crisis.severity,
       })
